@@ -1,3 +1,5 @@
+## False Position Algorithm 
+
 This code implements the false position method, a closed numerical method used for finding the roots of a function. this algorithm is based on several inputs:
 * func- the function that the user is trying to find the roots of
 * xl and xu- the upper (xu) and lower (xl) bounds bracketing the root
